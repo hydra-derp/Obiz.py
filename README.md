@@ -14,7 +14,7 @@ This is a very simple bot with fun commands
 
 - Uptime is managed with [Uptime Robot](https://uptimerobot.com/)
 
-- For steps to host, transfer code and set up uptimerobot click [here](https://www.youtube.com/watch?v=-5ptk-Klfcw)
+- For steps to host, transfer code and set up Uptime Robot click [here](https://www.youtube.com/watch?v=-5ptk-Klfcw)
 
 - Token.env
 
