@@ -2,6 +2,10 @@
 Obiz Source Code by hydra-derp 
 Discord: [TheMid#8068](https://dsc.bio/derpy1976)
 
+Purpose?: To eventually make everything free to use and make as well as available for everyone no matter what you have or where you're from, starting with the Obiz Discord Bot. 
+
+This is a very simple bot with fun commands
+
 ## Building the Bot
 
 ### Hosting For Free
