@@ -1,4 +1,4 @@
-# Obiz.py
+# Obiz Project
 Obiz Source Code by hydra-derp 
 Discord: [TheMid#8068](https://dsc.bio/derpy1976)
 
@@ -12,6 +12,9 @@ Discord: [TheMid#8068](https://dsc.bio/derpy1976)
 
 - For steps to host, transfer code and set up uptimerobot click [here](https://www.youtube.com/watch?v=-5ptk-Klfcw)
 
+- Token.env
+
 ### Discord Bot
 
 To start you must go to [Dicord Developer Portal](https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications) and create a bot.
+
