@@ -1,4 +1,4 @@
-# Obiz Project
+# Obiz Project (In development still)
 Obiz Source Code by hydra-derp 
 Discord: [TheMid#8068](https://dsc.bio/derpy1976)
 
